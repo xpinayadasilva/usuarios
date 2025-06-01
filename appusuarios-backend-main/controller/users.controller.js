@@ -1,5 +1,5 @@
 import { usersModel } from "../models/users.model.js";
-import { handleError } from "../utilities/handleError.js";
+import { handleError } from "../utilities/handleError.jsx";
 
 
 const getUsers = async (req, res) => {

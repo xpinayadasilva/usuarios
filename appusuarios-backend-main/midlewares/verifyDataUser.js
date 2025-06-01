@@ -1,4 +1,4 @@
-import { handleError } from "../utilities/handleError.js";
+import { handleError } from "../utilities/handleError.jsx";
 
 
 export const verifyDataUser = (req, res, next) => {
